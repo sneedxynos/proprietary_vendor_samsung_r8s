@@ -28,6 +28,8 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/r8s/proprietary/vendor/firmware/cs40l20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/cs40l20.bin \
     vendor/samsung/r8s/proprietary/vendor/firmware/dual_cal_wide_swide.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/dual_cal_wide_swide.bin \
     vendor/samsung/r8s/proprietary/vendor/firmware/dual_cal_wide_tele.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/dual_cal_wide_tele.bin \
+    vendor/samsung/r8s/proprietary/vendor/firmware/htbtfw20.tlv:$(TARGET_COPY_OUT_VENDOR)/firmware/htbtfw20.tlv \
+    vendor/samsung/r8s/proprietary/vendor/firmware/htnv20.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/htnv20.bin \
     vendor/samsung/r8s/proprietary/vendor/firmware/is_lib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/is_lib.bin \
     vendor/samsung/r8s/proprietary/vendor/firmware/is_mcu_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/is_mcu_fw.bin \
     vendor/samsung/r8s/proprietary/vendor/firmware/is_rta.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/is_rta.bin \
